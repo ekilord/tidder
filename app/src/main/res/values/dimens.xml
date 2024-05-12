@@ -5,4 +5,7 @@
     <dimen name="nav_header_vertical_spacing">8dp</dimen>
     <dimen name="nav_header_height">176dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="input_min_height">48dp</dimen>
+    <dimen name="fab_margin2">24</dimen>
+    <dimen name="fab_margin3">24dp</dimen>
 </resources>
